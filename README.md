@@ -1,7 +1,6 @@
 ![MasterHead](https://www.qed42.com/sites/default/files/styles/featured_image/public/2018-11/react-native.png?itok=lj4A4r0I)
 <h1 align="center">Hi 👋, I'm Mohamed Essam</h1>
 <h3 align="center">A passionate React Native developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/HnurQKt7zSQAAAAM/jim-carrey-jim-carrey-typing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosha3t&label=Profile%20views&color=0e75b6&style=flat" alt="mosha3t" /> </p>
 
 - 🌱 I’m currently learning **Node.js**
